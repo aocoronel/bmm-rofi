@@ -17,7 +17,7 @@
 Note: You will have to compile `bmm` from source first.
 
 ```bash
-git clone https://github.com/janpstrunn/bmm-rofi
+git clone https://github.com/anstrinn/bmm-rofi
 cd bmm-rofi
 chmod 700 src/bmm-rofi
 mv src/bmm-rofi "$HOME/.local/bin"
@@ -26,7 +26,7 @@ mv src/bmm-rofi "$HOME/.local/bin"
 ### Using Nix
 
 ```bash
-nix run github:janpstrunn/bmm-rofi
+nix run github:anstrinn/bmm-rofi
 ```
 
 ## Notes
